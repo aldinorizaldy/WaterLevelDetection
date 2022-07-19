@@ -20,6 +20,8 @@ Result of all detected lines only on the area of interest (between red lines):
 
 
 Examples for the calibration:
+
+
 Top = 300 cm
 Bottom = 170 cm
 
